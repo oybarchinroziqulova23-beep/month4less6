@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "population": 36000000
+  },
+  {
+    "id": 2,
+    "name": "Kazakhstan",
+    "capital": "Astana",
+    "population": 20000000
+  },
+  {
+    "id": 3,
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "population": 7000000
+  },
+  {
+    "id": 4,
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "population": 10000000
+  },
+  {
+    "id": 5,
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "population": 6000000
+  },
+  {
+    "id": 6,
+    "name": "Turkey",
+    "capital": "Ankara",
+    "population": 85000000
+  },
+  {
+    "id": 7,
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "population": 10300000
+  },
+  {
+    "id": 8,
+    "name": "United States",
+    "capital": "Washington D.C.",
+    "population": 333000000
+  },
+  {
+    "id": 9,
+    "name": "United Kingdom",
+    "capital": "London",
+    "population": 67000000
+  },
+  {
+    "id": 10,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": 125000000
+  }
+]

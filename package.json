@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  },
+  "name": "month4l6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oybarchinroziqulova23-beep/month4less6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/oybarchinroziqulova23-beep/month4less6/issues"
+  },
+  "homepage": "https://github.com/oybarchinroziqulova23-beep/month4less6#readme"
+}
